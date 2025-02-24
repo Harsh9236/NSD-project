@@ -1,0 +1,65 @@
+
+PROFESSIONAL SUMMARY
+A passionate tech enthusiast with a strong
+eagerness to learn and adapt to new
+technologies. Skilled in problem-solving, time
+management, and multitasking, with a keen eye
+for detail and a commitment to delivering high-
+quality results before deadlines.
+TECHNICAL COMPETENCIES
+OS: Windows | Linux
+Languages: C | C++ | HTML | CSS | JavaScript
+Databases: MongoDB, MySQL
+Other Interests: Graphic Designing, Participating
+in Hackathons, Chess, Music, Sports.
+INTERPERSONAL SKILLS
+Team Leadership | Management & Coordination
+| Decision Making & Analytical Skills | Writing
+Skills
+INTERESTS & HOBBIES
+Chess | Listening | Gaming | Designing
+LANGUAGES KNOWN
+English | Hindi | Punjabi
+
+EDUCATION
+Bachelor of Technology in Computer Science Engineering |
+
+Session: 2023-2027 | Score: 8.30 CGPA
+
+TRAINING & PROJECTS
+Ongoing Project: Nayi Disha
+Duration: Ongoing (Present)
+Environment: Windows
+Tech Stack: MERN, Python (Flask), AI/ML.
+Team Size: 4
+Description: Developing a platform to connect graduates with
+job opportunities through comprehensive skill tests, leveraging
+AI for matchmaking, and offering mentorship and
+consultations.
+Minor MERN Stack Projects
+• Developed multiple small-scale projects exploring
+various aspects of the MERN stack.
+• Projects include user authentication, CRUD operations,
+and responsive web designs.
+• Gained experience in front-end design with React and
+backend API management with Node.js.
+ACADEMIC ACHIEVEMENTS
+• Secured 3 Star badge at Hacker Rank in C++ and Problem
+Solving.
+• Secured 3 Star badge at Hacker Rank in 10 days of
+Javascript.
+CERTIFICATIONS
+Pregrad MERN Stack Course
+• Completed a comprehensive training course covering MongoDB,
+Express, React, and Node.js.
+• Gained hands-on experience with full-stack development,
+focusing on web applications and REST APIs.
+EXTRACURRICULAR & CO-CURRICULAR ACHIEVEMENTS
+• Organized events on Ozone Day in 2023.
+• Secured 1st position in college-wide logo-making competition in 2024
+• Top performer in Google Full stack Fiesta.
+• Two times district winner in chess.
+• Core designing member at GDG – On Campus COE
+• Achieved 1st position in a college-wide Web Development Competition,
+in 2024, for designing and developing a web app.
+• Achieved 3rd position in the college-wide mock placement drive
