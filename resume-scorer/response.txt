@@ -1,0 +1,45 @@
+Thoughts:
+
+The candidate is still pursuing their Bachelor's degree, expected to graduate in 2026. The job description specifies that the ideal candidate should be a "recent graduate". This means they are ideally looking for someone who has graduated but doesn't have much professional work experience and might be on a fresher pay scale. The current candidate is 2 years away from graduating. This is the biggest mismatch.
+
+The job description emphasizes "Computer Science/Information Technology" degree, while the candidate is pursuing "Artificial Intelligence And Data Science". While there's overlap, the core focus differs. The company is precisely asking for Front-End developers.
+
+The candidate lists strong front-end skills: HTML, CSS, JavaScript, React JS, Bootstrap, Tailwind CSS, GSAP, Redux, Next JS. This aligns well with the requirements, especially the emphasis on ReactJS and Redux. They also have Git. However, the resume doesn't mention Unit Testing.
+
+The resume mentions several relevant projects (CashTrack, DASH), demonstrating practical application of front-end skills. "Reproducing designs from PSD/Adobe XD files" is not explicitly addressed in the resume but, using Javascript, HTML and CSS would require implementing these things as part of their college assignments/projects.
+
+The resume notes have additional Front-end and Back-end skills, cloud foundations, and DevOps skills. The soft skills section includes relevant soft skills such team leading skills, communication and problem-solving, time management and a mindset of continuous learning. There are also mentions of holding leadership positions
+
+Based on these considerations, I'll start with a base score and make adjustments:
+
+*   **Base Score:** 5 (Average candidate)
+*   **Deductions:**
+    *   \-2: Not a recent graduate.
+    *   \-1: Degree is in an allied, not a core field.
+    *  -1: No experience and is still an undergraduate.
+    * -1: No mention of Unit Testing.
+*  Additions:
+    *  +2 :Strong skills matched.
+    * +1 : Has leadership skills
+    *  +1 Project Experience.
+
+Reply:
+
+Rating: <5>
+
+Here's a breakdown of the suitability rating:
+
+*   **Base Score:** 5 (Represents an average candidate with some matching skills but also some significant gaps.)
+
+*   **Deductions:**
+
+    *   **-2 Points:** The candidate is not a recent graduate, as they are expected to complete their degree in 2026. The job description is looking for recent graduates with a degree.
+    *   **-1 Point:** The candidate's degree is in Artificial Intelligence and Data Science, whereas the job description prefers a Computer Science/Information Technology degree. While there can be some overlap in skills, the core focus of the degree is not the precise match mentioned in the job post.
+    *   **-1 Point**: The candidate does not have experience and will graduate only by 2026, therefore he does not match, as an undergraduate, the "recent graduate" criteria outlined in the job description.
+    * -1 No mention of unit testing
+
+*   **Additions:**
+
+    *    **+2 Point:** The resume demonstrates proficiency in HTML, CSS, Javascript, ReactJS, Redux, and Git, all explicitly mentioned as desired skills, along with other front-end technologies, which is a very good match and demonstrates exceeding requirements.
+    * +1 Point: The resume clearly demonstrates leadership skills.
+    *   **+1 Point:** The candidate showcases relevant project experience (CashTrack, DASH - Cab Services), which is a positive aspect especially for a new graduate. This indicates the practical use of their front-end skills.

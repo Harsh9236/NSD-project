@@ -1,0 +1,11 @@
+We are looking for adept candidates to fill Front-End web developer vacancies in Kolkata! The ideal candidate would be a recent graduate with a Computer Science/Information Technology degree and a solid understanding of HTML, CSS, JS, ReactJS, Redux, Unit Testing, and Git.
+
+Requirements
+
+A Bachelor's Degree.
+
+Knowledge of HTML5, CSS, Javascript is a must.
+
+Strong aptitude and familiarity with ReactJS, Redux, Unit Testing, and Git.
+
+Ability to accurately reproduce designs from PSD/Adobe XD files

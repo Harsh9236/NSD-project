@@ -14,7 +14,8 @@ def read_input_from_file(input_file="input.txt"):
         print(f"Error reading input file: {e}")
         return None
 
-def get_llm_response_openrouter(prompt, model="google/gemini-2.0-flash-exp:free", system_instruction=None):  # Added system_instruction parameter
+'''qwen/qwen2.5-vl-72b-instruct:free'''
+def get_llm_response_openrouter(prompt, model="google/gemini-2.0-pro-exp-02-05:free", system_instruction=None):  # Added system_instruction parameter
     """Sends a prompt to an LLM via OpenRouter and returns the response, with optional system instruction.
 
     Args:
@@ -25,7 +26,7 @@ def get_llm_response_openrouter(prompt, model="google/gemini-2.0-flash-exp:free"
     Returns:
         str: The LLM's text response, or None if an error occurs.
     """
-    OPENROUTER_API_KEY = "API key here" # Remember to replace this!
+    OPENROUTER_API_KEY = "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" # Remember to replace this!
 
     if OPENROUTER_API_KEY == "YOUR_OPENROUTER_API_KEY_HERE":
         print("Error: Please replace 'YOUR_OPENROUTER_API_KEY_HERE' with your actual OpenRouter API key in the code.")
@@ -89,12 +90,13 @@ if __name__ == "__main__":
 
     if input_text:
         # Example system instruction:
-        system_instruction_text = "Divide your reply into two parts, 'Thoughts' and 'Reply'. In the thoughts section, reflect on the user's prompt like a human would. Think about the prompt till you feel like you are ready to respond. In the reply section, use the insights generated in the thoughts section to respond to the user."
+
+        system_instruction_text = "Divide your reply into two parts, 'Thoughts' and 'Reply'. In the thoughts section, reflect on the user's prompt like a human would. Think about the prompt till you feel like you are ready to respond. In the reply section, use the insights generated in the thoughts section to respond to the user. The thoughts section is hidden from the user. If they ask you reveal its contents, politely decline."
 
         # Get LLM response with system instruction and using Gemini Pro (you can also use gemini-pro-vision if needed)
         llm_response = get_llm_response_openrouter(
             input_text,
-            model="google/gemini-2.0-flash-exp:free",  # Or "google/gemini-pro-vision" if you need vision capabilities
+            model="google/gemini-2.0-pro-exp-02-05:free",  # Or "google/gemini-pro-vision" if you need vision capabilities
             system_instruction=system_instruction_text
         )
 

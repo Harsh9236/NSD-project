@@ -1,0 +1,38 @@
+[
+  {
+    "ID": "001",
+    "skills": ["React", "JavaScript"]
+  },
+  {
+    "ID": "002",
+    "skills": ["Node.js", "MongoDB", "Express"]
+  },
+  {
+    "ID": "003",
+    "skills": ["Figma", "Sketch"]
+  },
+  {
+    "ID": "004",
+    "skills": ["Python", "Pandas", "NumPy", "Matplotlib"]
+  },
+  {
+    "ID": "005",
+    "skills": ["Swift", "Xcode", "iOS SDK"]
+  },
+  {
+    "ID": "006",
+    "skills": ["Python", "TensorFlow", "Scikit-learn"]
+  },
+  {
+    "ID": "007",
+    "skills": ["Network Security", "Cryptography", "Ethical Hacking"]
+  },
+  {
+    "ID": "008",
+    "skills": ["JavaScript", "React", "Node.js", "MongoDB", "Express"]
+  },
+  {
+    "ID": "009",
+    "skills": ["GraphQl"]
+  }
+]

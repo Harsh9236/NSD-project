@@ -1,0 +1,20 @@
+Compare the job description and the resume and rate the suitability of the candidate on a scale of 1 to 10. Provide justification for each deduction and addition of score. Enclose the rating within angled brackets. For example: Rating <7>
+
+Job description:
+
+We are looking for adept candidates to fill Front-End web developer vacancies in Kolkata! The ideal candidate would be a recent graduate with a Computer Science/Information Technology degree and a solid understanding of HTML, CSS, JS, ReactJS, Redux, Unit Testing, and Git.
+
+Requirements
+
+A Bachelor's Degree.
+
+Knowledge of HTML5, CSS, Javascript is a must.
+
+Strong aptitude and familiarity with ReactJS, Redux, Unit Testing, and Git.
+
+Ability to accurately reproduce designs from PSD/Adobe XD files
+
+
+Resume:
+
+ NITISH KUMAR PANDIT Based in Panchkula, Haryana +91 9915609635 ⋄ Mail ⋄ LinkedIn ⋄ Portfolio EDUCATION Bachelor of Technology, Chandigarh Group Of Colleges - Landran Expected 2026 Artificial Intelligence And Data Science CGPA - 6.9 Intermediate, Govt. Model - 22A Chd 2020 - 2022 Non-Medical (CBSE) Percentage - 69 Matriculation, Doon Public School - 21 Pkl 2018 - 2020 CBSE Percentage - 83.4 SKILLS Front-End HTML, CSS, JavaScript/ES6+, React JS, Bootstrap, Tailwind CSS, GSAP, Redux, Next JS Back-End Node JS, Express JS, POSTMAN, REST APIs Databases MongoDB, MYSQL Version Control Git and GitHub Devops AWS, Docker, Kubernetes, CI-CD pipelines Soft Skills Team Leading, Time Management, Problem-Solving, Learning Mindset Programming Languages Proficient in C++, JavaScript, Python — Familier with C, Java, R Coursework DSA, OS, DBMS, OOPS, AI, ML Other Interests Data Science, Machine Learning PROJECTS CashTrack - A.I. Finance Tracker Built a dynamic web application that enables user to track their finances. AI will summarize and give financial advice based on the transaction history. Tools and Technology used - NEXT.js, Tailwind CSS, Open AI, NEON DB, Shadcn UI, Clerk GitHub Flasher The Flasher is a bluetooth triggered message flashing device built using arduino that dispays a custom message when triggered with some input. Tools and Technology used - Arduino, Breadboard, 162A LCD display, Bluetooth module, C++ for control algorithms DASH - Cab Services Built a ride-hailing application to replicate core functionalities of Uber. The app offers seamless booking and ride management experiences for users and drivers. Tools and Technology used - React.js, Node.js, Express.js, MongoDB, Tailwind CSS GitHub CERTIFICATIONS • Web Designing - Infowiz • Backend Development - PW Skills • Cloud Foundation - AWS academy • Data Engineering - AWS academy POSITION OF RESPONSIBILITY • Team Leader in Smart India Hackathon 2023 and 2024 • Team Leader in other college competitions
