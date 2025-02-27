@@ -1,0 +1,122 @@
+[
+  {
+    "ID": "001",
+    "Skills": [
+      "Python",
+      "Data Analysis",
+      "Machine Learning",
+      "SQL",
+      "Cloud Computing (AWS)",
+      "Git",
+      "Docker"
+    ]
+  },
+  {
+    "ID": "002",
+    "Skills": [
+      "Java",
+      "Spring Framework",
+      "REST APIs",
+      "Microservices Architecture",
+      "Agile Development",
+      "JUnit",
+      "Jenkins"
+    ]
+  },
+  {
+    "ID": "003",
+    "Skills": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "HTML",
+      "CSS",
+      "Responsive Design",
+      "UI/UX Design"
+    ]
+  },
+  {
+    "ID": "004",
+    "Skills": [
+      "C#",
+      ".NET Framework",
+      "ASP.NET",
+      "Entity Framework",
+      "LINQ",
+      "SQL Server",
+      "Azure DevOps"
+    ]
+  },
+  {
+    "ID": "005",
+    "Skills": [
+      "Cybersecurity",
+      "Penetration Testing",
+      "Network Security",
+      "Vulnerability Assessment",
+      "Ethical Hacking",
+      "Security Auditing",
+      "Incident Response"
+    ]
+  },
+  {
+    "ID": "006",
+    "Skills": [
+      "Data Engineering",
+      "ETL Processes",
+      "Big Data Technologies (Spark, Hadoop)",
+      "Data Warehousing",
+      "Data Modeling",
+      "Cloud Data Platforms (Snowflake, Redshift)",
+      "Kafka"
+    ]
+  },
+  {
+    "ID": "007",
+    "Skills": [
+      "DevOps",
+      "Continuous Integration",
+      "Continuous Delivery",
+      "Infrastructure as Code (Terraform, Ansible)",
+      "Containerization (Docker, Kubernetes)",
+      "Cloud Management",
+      "Monitoring Tools (Prometheus, Grafana)"
+    ]
+  },
+  {
+    "ID": "008",
+    "Skills": [
+      "Project Management",
+      "Agile Methodologies (Scrum, Kanban)",
+      "Risk Management",
+      "Stakeholder Management",
+      "Budget Management",
+      "Team Leadership",
+      "Communication Skills"
+    ]
+  },
+  {
+    "ID": "009",
+    "Skills": [
+      "Database Administration",
+      "MySQL",
+      "PostgreSQL",
+      "Oracle",
+      "Database Optimization",
+      "Backup and Recovery",
+      "Performance Tuning"
+    ]
+  },
+  {
+    "ID": "010",
+    "Skills": [
+      "Mobile App Development",
+      "Android (Kotlin/Java)",
+      "iOS (Swift/Objective-C)",
+      "React Native",
+      "Flutter",
+      "Mobile UI/UX",
+      "API Integration"
+    ]
+  }
+]
