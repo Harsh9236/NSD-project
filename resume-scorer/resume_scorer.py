@@ -26,7 +26,7 @@ def get_llm_response_openrouter(prompt, model="google/gemini-2.0-pro-exp-02-05:f
     Returns:
         str: The LLM's text response, or None if an error occurs.
     """
-    OPENROUTER_API_KEY = "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" # Remember to replace this!
+    OPENROUTER_API_KEY = "" # Remember to replace this!
 
     if OPENROUTER_API_KEY == "YOUR_OPENROUTER_API_KEY_HERE":
         print("Error: Please replace 'YOUR_OPENROUTER_API_KEY_HERE' with your actual OpenRouter API key in the code.")
