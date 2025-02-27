@@ -56,7 +56,7 @@ def save_output_to_file(output_text, output_file_path="output.txt"):
 
 
 if __name__ == "__main__":
-    api_key = "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"
+    api_key = ""
     json_file_path = "resume.json"
     prompt = "Analyze the resume and extract skills that the person possesses. Enclose the skills within angled brackets. Example <React>, <Python>, <AWS>, <Django>, <Git>"
     output_file_path = "response.txt"
